@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!! 👋
 
 <!--
 **afrogaara/afrogaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/HIS
 
 -->
-# Olá! Eu sou Roberto César.
 <div align="center">
   <a href="https://github.com/afrogaara">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=afrogaara&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrogaara&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=afrogaara&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrogaara&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rob-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
