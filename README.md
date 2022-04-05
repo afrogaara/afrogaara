@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/afrogaara">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=afrogaara&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrogaara&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrogaara&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rob-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
