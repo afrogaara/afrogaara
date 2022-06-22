@@ -11,7 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rob-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ba0375e5775aeedaaab38692aaaa6359.gif" width="90" height="90" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
 </div>
 
   ##
